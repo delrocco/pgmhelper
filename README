@@ -10,12 +10,13 @@ Requires:
 
 Python scripts were written in Python 2.7 and display help options with -h.
 bash scripts require arguments to be passed in.
+All scripts were written with folders full of .pgm files in mind.
 
 ----------------------------------------
 HOW TO USE
 ----------------------------------------
 
-processpgm.sh:
+processpgm.sh: (requires folder, not single file)
 processpgm.sh ~/Desktop/OSC/IR/ png 800x600
 processpgm.sh ~/Desktop/OSC/IR/ tiff 1024x768
 
