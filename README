@@ -2,7 +2,7 @@
 PGMHELPER
 ----------------------------------------
 
-Useful scripts/programs for working with .pgm files.
+Some scripts for working with .pgm files.
 
 Requires:
  - Python Image Library (PIL or Pillow)
@@ -11,6 +11,9 @@ Requires:
 Python scripts were written in Python 2.7 and display help options with -h.
 bash scripts require arguments to be passed in.
 All scripts were written with folders full of .pgm files in mind.
+
+Please feel free to collaborate and improve this repo :)
+I would like to provide more functionality and remove the dependency on ImageMagick.
 
 ----------------------------------------
 HOW TO USE
